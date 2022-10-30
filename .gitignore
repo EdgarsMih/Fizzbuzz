@@ -1,0 +1,9 @@
+.idea/
+cypress.config.js
+node_modules/
+package.json
+package-lock.json
+cypress/
+cypress/videos
+/cypress/screenshots
+.DS_store
